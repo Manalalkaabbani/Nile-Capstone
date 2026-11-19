@@ -1,0 +1,9 @@
+,Accuracy,Precision,Recall,F1
+Logistic Regression,0.863,0.774,0.669,0.718
+XGBoost,0.846,0.728,0.648,0.686
+SVM,0.852,0.78,0.602,0.679
+Random Forest,0.853,0.798,0.583,0.673
+Naive Bayes,0.832,0.68,0.666,0.673
+KNN,0.81,0.67,0.531,0.593
+Decision Tree,0.786,0.586,0.599,0.593
+Baseline: nobody churns,0.74,0.0,0.0,0.0

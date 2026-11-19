@@ -1,0 +1,11 @@
+,Random Forest,XGBoost,Average
+contract_type,0.182,0.188,0.185
+tenure_months,0.129,0.147,0.138
+monthly_bill_egp,0.038,0.127,0.083
+late_payments,0.033,0.042,0.037
+plan,0.02,0.015,0.017
+support_calls,-0.001,0.031,0.015
+data_usage_gb,-0.005,0.032,0.014
+payment_method,0.013,0.007,0.01
+governorate,-0.003,0.012,0.005
+num_services,-0.0,0.008,0.004

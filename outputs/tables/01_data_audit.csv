@@ -1,0 +1,13 @@
+,Problem found,File / column,Rows,How it is fixed
+0,Duplicate rows (customer repeated),customers / all columns,15,"Drop exact duplicates, keep first"
+1,Missing values,customers / age,90,"Median (inside the Pipeline, train only)"
+2,Missing values,customers / data_usage_gb,90,"Median (inside the Pipeline, train only)"
+3,Missing values,customers / voice_minutes,60,"Median (inside the Pipeline, train only)"
+4,Missing values,customers / payment_method,60,"Mode (inside the Pipeline, train only)"
+5,Missing values,usage_behavior / social_media_hours_week,25,Median (no split needed: unsupervised)
+6,Text written in different ways (trailing space),customers / gender,20,strip() whitespace
+7,Text written in different ways (capital letters),customers / contract_type,30,Standardise to Monthly / 1-Year / 2-Year
+8,Extreme / impossible values (> 150 GB),customers / data_usage_gb,15,Cap at 150 GB
+9,Extreme values (> 30 calls per day),usage_behavior / calls_per_day,20,Keep and flag. Look at them again in DBSCAN (step 06)
+10,Zero data use (voice-only customers?),usage_behavior / avg_daily_data_mb,160,"Keep: a real behaviour, not an error"
+11,One-item baskets (cannot make a rule),service_transactions / transaction_id,1336,Keep: they still count in the support

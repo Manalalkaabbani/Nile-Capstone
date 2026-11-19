@@ -1,0 +1,3 @@
+Model,R2,RMSE (EGP),MAE (EGP)
+Simple: data_usage_gb only,0.762,90.758,63.798
+Multiple: all features,0.961,36.771,25.347

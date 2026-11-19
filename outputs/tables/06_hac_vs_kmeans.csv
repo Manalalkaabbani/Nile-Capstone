@@ -1,0 +1,4 @@
+linkage,cluster sizes,silhouette,Adjusted Rand vs KMeans (1 = same groups)
+ward,"[565, 523, 454, 418, 40]",0.554,0.998
+average,"[1542, 418, 17, 16, 7]",0.465,0.307
+complete,"[1437, 523, 17, 16, 7]",0.351,0.37

@@ -1,0 +1,4 @@
+Method,Model,Combinations tried,Model fits,Time (s),Best CV F1
+GridSearchCV,Decision Tree,210,1050,37.181,0.665
+RandomizedSearchCV (same space),Decision Tree,30,150,7.591,0.665
+RandomizedSearchCV (continuous space),XGBoost,40,200,52.319,0.71

@@ -1,0 +1,5 @@
+,Accuracy,Precision,Recall,F1
+threshold 0.50 (default),0.825,0.62,0.846,0.715
+threshold 0.30 (max money in CV if every offer works),0.77,0.533,0.929,0.678
+Cross-validation F1 (mean of 5 folds),,,,0.74
+Baseline: nobody churns,0.74,0.0,0.0,0.0

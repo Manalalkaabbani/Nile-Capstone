@@ -1,0 +1,2001 @@
+customer_id,cluster,segment,dbscan
+C00001,0,Night Gamers & Streamers,0
+C00002,1,Light Top-uppers,1
+C00003,0,Night Gamers & Streamers,0
+C00004,0,Night Gamers & Streamers,0
+C00005,0,Night Gamers & Streamers,0
+C00006,3,Global Talkers,2
+C00007,0,Night Gamers & Streamers,0
+C00008,2,Social Scrollers,3
+C00009,2,Social Scrollers,3
+C00010,1,Light Top-uppers,1
+C00011,0,Night Gamers & Streamers,0
+C00012,2,Social Scrollers,3
+C00013,3,Global Talkers,2
+C00014,2,Social Scrollers,3
+C00015,3,Global Talkers,2
+C00016,2,Social Scrollers,3
+C00017,4,Night-Heavy Outliers,-1
+C00018,0,Night Gamers & Streamers,0
+C00019,1,Light Top-uppers,1
+C00020,0,Night Gamers & Streamers,0
+C00021,0,Night Gamers & Streamers,0
+C00022,0,Night Gamers & Streamers,0
+C00023,3,Global Talkers,2
+C00024,3,Global Talkers,2
+C00025,0,Night Gamers & Streamers,0
+C00026,1,Light Top-uppers,1
+C00027,1,Light Top-uppers,1
+C00028,2,Social Scrollers,3
+C00029,0,Night Gamers & Streamers,0
+C00030,2,Social Scrollers,3
+C00031,3,Global Talkers,2
+C00032,0,Night Gamers & Streamers,0
+C00033,0,Night Gamers & Streamers,0
+C00034,2,Social Scrollers,3
+C00035,1,Light Top-uppers,1
+C00036,0,Night Gamers & Streamers,0
+C00037,2,Social Scrollers,3
+C00038,1,Light Top-uppers,1
+C00039,3,Global Talkers,2
+C00040,3,Global Talkers,2
+C00041,2,Social Scrollers,3
+C00042,1,Light Top-uppers,1
+C00043,3,Global Talkers,2
+C00044,0,Night Gamers & Streamers,0
+C00045,0,Night Gamers & Streamers,0
+C00046,3,Global Talkers,2
+C00047,0,Night Gamers & Streamers,0
+C00048,0,Night Gamers & Streamers,0
+C00049,3,Global Talkers,2
+C00050,1,Light Top-uppers,1
+C00051,2,Social Scrollers,3
+C00052,2,Social Scrollers,3
+C00053,0,Night Gamers & Streamers,0
+C00054,3,Global Talkers,2
+C00055,0,Night Gamers & Streamers,0
+C00056,3,Global Talkers,2
+C00057,1,Light Top-uppers,1
+C00058,2,Social Scrollers,3
+C00059,3,Global Talkers,2
+C00060,0,Night Gamers & Streamers,0
+C00061,2,Social Scrollers,3
+C00062,2,Social Scrollers,3
+C00063,3,Global Talkers,2
+C00064,2,Social Scrollers,3
+C00065,3,Global Talkers,2
+C00066,3,Global Talkers,2
+C00067,0,Night Gamers & Streamers,0
+C00068,1,Light Top-uppers,1
+C00069,3,Global Talkers,2
+C00070,1,Light Top-uppers,1
+C00071,1,Light Top-uppers,1
+C00072,1,Light Top-uppers,1
+C00073,0,Night Gamers & Streamers,0
+C00074,2,Social Scrollers,3
+C00075,2,Social Scrollers,3
+C00076,1,Light Top-uppers,1
+C00077,3,Global Talkers,2
+C00078,2,Social Scrollers,3
+C00079,2,Social Scrollers,3
+C00080,0,Night Gamers & Streamers,0
+C00081,2,Social Scrollers,3
+C00082,3,Global Talkers,2
+C00083,2,Social Scrollers,3
+C00084,0,Night Gamers & Streamers,0
+C00085,0,Night Gamers & Streamers,0
+C00086,1,Light Top-uppers,1
+C00087,0,Night Gamers & Streamers,0
+C00088,4,Night-Heavy Outliers,-1
+C00089,0,Night Gamers & Streamers,0
+C00090,2,Social Scrollers,3
+C00091,2,Social Scrollers,3
+C00092,2,Social Scrollers,3
+C00093,0,Night Gamers & Streamers,0
+C00094,1,Light Top-uppers,1
+C00095,1,Light Top-uppers,1
+C00096,1,Light Top-uppers,1
+C00097,0,Night Gamers & Streamers,0
+C00098,0,Night Gamers & Streamers,0
+C00099,2,Social Scrollers,3
+C00100,1,Light Top-uppers,1
+C00101,1,Light Top-uppers,1
+C00102,2,Social Scrollers,3
+C00103,2,Social Scrollers,3
+C00104,1,Light Top-uppers,1
+C00105,0,Night Gamers & Streamers,0
+C00106,2,Social Scrollers,3
+C00107,0,Night Gamers & Streamers,0
+C00108,1,Light Top-uppers,1
+C00109,2,Social Scrollers,3
+C00110,0,Night Gamers & Streamers,0
+C00111,1,Light Top-uppers,1
+C00112,1,Light Top-uppers,1
+C00113,2,Social Scrollers,3
+C00114,1,Light Top-uppers,1
+C00115,0,Night Gamers & Streamers,0
+C00116,1,Light Top-uppers,1
+C00117,1,Light Top-uppers,1
+C00118,4,Night-Heavy Outliers,-1
+C00119,2,Social Scrollers,3
+C00120,2,Social Scrollers,3
+C00121,4,Night-Heavy Outliers,-1
+C00122,2,Social Scrollers,3
+C00123,0,Night Gamers & Streamers,0
+C00124,1,Light Top-uppers,1
+C00125,1,Light Top-uppers,1
+C00126,2,Social Scrollers,3
+C00127,0,Night Gamers & Streamers,0
+C00128,0,Night Gamers & Streamers,0
+C00129,3,Global Talkers,2
+C00130,3,Global Talkers,2
+C00131,2,Social Scrollers,3
+C00132,1,Light Top-uppers,1
+C00133,0,Night Gamers & Streamers,0
+C00134,1,Light Top-uppers,1
+C00135,3,Global Talkers,2
+C00136,3,Global Talkers,2
+C00137,2,Social Scrollers,3
+C00138,1,Light Top-uppers,1
+C00139,0,Night Gamers & Streamers,0
+C00140,2,Social Scrollers,3
+C00141,0,Night Gamers & Streamers,0
+C00142,0,Night Gamers & Streamers,0
+C00143,1,Light Top-uppers,1
+C00144,3,Global Talkers,2
+C00145,0,Night Gamers & Streamers,0
+C00146,1,Light Top-uppers,1
+C00147,0,Night Gamers & Streamers,0
+C00148,3,Global Talkers,2
+C00149,3,Global Talkers,2
+C00150,1,Light Top-uppers,1
+C00151,3,Global Talkers,2
+C00152,2,Social Scrollers,3
+C00153,0,Night Gamers & Streamers,0
+C00154,2,Social Scrollers,3
+C00155,0,Night Gamers & Streamers,0
+C00156,2,Social Scrollers,3
+C00157,0,Night Gamers & Streamers,0
+C00158,3,Global Talkers,2
+C00159,2,Social Scrollers,3
+C00160,1,Light Top-uppers,1
+C00161,3,Global Talkers,2
+C00162,2,Social Scrollers,3
+C00163,3,Global Talkers,2
+C00164,0,Night Gamers & Streamers,0
+C00165,1,Light Top-uppers,1
+C00166,0,Night Gamers & Streamers,0
+C00167,2,Social Scrollers,3
+C00168,0,Night Gamers & Streamers,0
+C00169,3,Global Talkers,2
+C00170,2,Social Scrollers,3
+C00171,0,Night Gamers & Streamers,0
+C00172,3,Global Talkers,2
+C00173,1,Light Top-uppers,1
+C00174,0,Night Gamers & Streamers,0
+C00175,0,Night Gamers & Streamers,0
+C00176,0,Night Gamers & Streamers,0
+C00177,3,Global Talkers,2
+C00178,2,Social Scrollers,3
+C00179,1,Light Top-uppers,1
+C00180,2,Social Scrollers,3
+C00181,0,Night Gamers & Streamers,0
+C00182,0,Night Gamers & Streamers,0
+C00183,2,Social Scrollers,3
+C00184,3,Global Talkers,2
+C00185,3,Global Talkers,2
+C00186,3,Global Talkers,2
+C00187,0,Night Gamers & Streamers,0
+C00188,2,Social Scrollers,3
+C00189,3,Global Talkers,2
+C00190,3,Global Talkers,2
+C00191,3,Global Talkers,2
+C00192,2,Social Scrollers,3
+C00193,0,Night Gamers & Streamers,0
+C00194,3,Global Talkers,2
+C00195,0,Night Gamers & Streamers,0
+C00196,2,Social Scrollers,3
+C00197,3,Global Talkers,2
+C00198,2,Social Scrollers,3
+C00199,2,Social Scrollers,3
+C00200,2,Social Scrollers,3
+C00201,1,Light Top-uppers,1
+C00202,4,Night-Heavy Outliers,-1
+C00203,3,Global Talkers,2
+C00204,0,Night Gamers & Streamers,0
+C00205,3,Global Talkers,2
+C00206,0,Night Gamers & Streamers,0
+C00207,1,Light Top-uppers,1
+C00208,0,Night Gamers & Streamers,0
+C00209,3,Global Talkers,2
+C00210,2,Social Scrollers,3
+C00211,3,Global Talkers,2
+C00212,0,Night Gamers & Streamers,0
+C00213,2,Social Scrollers,3
+C00214,1,Light Top-uppers,1
+C00215,0,Night Gamers & Streamers,0
+C00216,0,Night Gamers & Streamers,0
+C00217,1,Light Top-uppers,1
+C00218,3,Global Talkers,2
+C00219,0,Night Gamers & Streamers,0
+C00220,2,Social Scrollers,3
+C00221,2,Social Scrollers,3
+C00222,0,Night Gamers & Streamers,0
+C00223,2,Social Scrollers,3
+C00224,0,Night Gamers & Streamers,0
+C00225,1,Light Top-uppers,1
+C00226,1,Light Top-uppers,1
+C00227,3,Global Talkers,2
+C00228,2,Social Scrollers,3
+C00229,1,Light Top-uppers,1
+C00230,3,Global Talkers,2
+C00231,0,Night Gamers & Streamers,0
+C00232,0,Night Gamers & Streamers,0
+C00233,3,Global Talkers,2
+C00234,1,Light Top-uppers,1
+C00235,2,Social Scrollers,3
+C00236,0,Night Gamers & Streamers,0
+C00237,1,Light Top-uppers,1
+C00238,0,Night Gamers & Streamers,0
+C00239,0,Night Gamers & Streamers,0
+C00240,3,Global Talkers,2
+C00241,2,Social Scrollers,3
+C00242,2,Social Scrollers,3
+C00243,0,Night Gamers & Streamers,0
+C00244,0,Night Gamers & Streamers,0
+C00245,2,Social Scrollers,3
+C00246,3,Global Talkers,2
+C00247,1,Light Top-uppers,1
+C00248,3,Global Talkers,2
+C00249,2,Social Scrollers,3
+C00250,0,Night Gamers & Streamers,0
+C00251,0,Night Gamers & Streamers,0
+C00252,3,Global Talkers,2
+C00253,2,Social Scrollers,3
+C00254,0,Night Gamers & Streamers,0
+C00255,2,Social Scrollers,3
+C00256,3,Global Talkers,2
+C00257,0,Night Gamers & Streamers,0
+C00258,0,Night Gamers & Streamers,0
+C00259,3,Global Talkers,2
+C00260,3,Global Talkers,2
+C00261,0,Night Gamers & Streamers,0
+C00262,3,Global Talkers,2
+C00263,3,Global Talkers,2
+C00264,0,Night Gamers & Streamers,0
+C00265,3,Global Talkers,2
+C00266,0,Night Gamers & Streamers,0
+C00267,1,Light Top-uppers,1
+C00268,0,Night Gamers & Streamers,0
+C00269,0,Night Gamers & Streamers,0
+C00270,3,Global Talkers,2
+C00271,3,Global Talkers,2
+C00272,0,Night Gamers & Streamers,0
+C00273,1,Light Top-uppers,1
+C00274,2,Social Scrollers,3
+C00275,2,Social Scrollers,3
+C00276,0,Night Gamers & Streamers,0
+C00277,0,Night Gamers & Streamers,0
+C00278,1,Light Top-uppers,1
+C00279,2,Social Scrollers,3
+C00280,2,Social Scrollers,3
+C00281,1,Light Top-uppers,1
+C00282,0,Night Gamers & Streamers,0
+C00283,3,Global Talkers,2
+C00284,2,Social Scrollers,3
+C00285,1,Light Top-uppers,1
+C00286,2,Social Scrollers,3
+C00287,1,Light Top-uppers,1
+C00288,2,Social Scrollers,3
+C00289,0,Night Gamers & Streamers,0
+C00290,2,Social Scrollers,3
+C00291,0,Night Gamers & Streamers,0
+C00292,0,Night Gamers & Streamers,0
+C00293,2,Social Scrollers,3
+C00294,2,Social Scrollers,3
+C00295,2,Social Scrollers,3
+C00296,3,Global Talkers,2
+C00297,1,Light Top-uppers,1
+C00298,2,Social Scrollers,3
+C00299,2,Social Scrollers,3
+C00300,1,Light Top-uppers,1
+C00301,3,Global Talkers,2
+C00302,2,Social Scrollers,3
+C00303,0,Night Gamers & Streamers,0
+C00304,0,Night Gamers & Streamers,0
+C00305,0,Night Gamers & Streamers,0
+C00306,3,Global Talkers,2
+C00307,2,Social Scrollers,3
+C00308,2,Social Scrollers,3
+C00309,1,Light Top-uppers,1
+C00310,2,Social Scrollers,3
+C00311,1,Light Top-uppers,1
+C00312,2,Social Scrollers,3
+C00313,3,Global Talkers,2
+C00314,2,Social Scrollers,3
+C00315,1,Light Top-uppers,1
+C00316,0,Night Gamers & Streamers,0
+C00317,0,Night Gamers & Streamers,0
+C00318,3,Global Talkers,2
+C00319,2,Social Scrollers,3
+C00320,1,Light Top-uppers,1
+C00321,0,Night Gamers & Streamers,0
+C00322,0,Night Gamers & Streamers,0
+C00323,0,Night Gamers & Streamers,0
+C00324,2,Social Scrollers,3
+C00325,4,Night-Heavy Outliers,-1
+C00326,1,Light Top-uppers,1
+C00327,1,Light Top-uppers,1
+C00328,1,Light Top-uppers,1
+C00329,2,Social Scrollers,3
+C00330,3,Global Talkers,2
+C00331,2,Social Scrollers,3
+C00332,3,Global Talkers,2
+C00333,1,Light Top-uppers,1
+C00334,0,Night Gamers & Streamers,0
+C00335,2,Social Scrollers,3
+C00336,2,Social Scrollers,3
+C00337,1,Light Top-uppers,1
+C00338,1,Light Top-uppers,1
+C00339,1,Light Top-uppers,1
+C00340,3,Global Talkers,2
+C00341,1,Light Top-uppers,1
+C00342,1,Light Top-uppers,1
+C00343,0,Night Gamers & Streamers,0
+C00344,1,Light Top-uppers,1
+C00345,3,Global Talkers,2
+C00346,0,Night Gamers & Streamers,0
+C00347,3,Global Talkers,2
+C00348,2,Social Scrollers,3
+C00349,4,Night-Heavy Outliers,-1
+C00350,2,Social Scrollers,3
+C00351,3,Global Talkers,2
+C00352,3,Global Talkers,2
+C00353,0,Night Gamers & Streamers,0
+C00354,1,Light Top-uppers,1
+C00355,2,Social Scrollers,3
+C00356,1,Light Top-uppers,1
+C00357,3,Global Talkers,2
+C00358,1,Light Top-uppers,1
+C00359,3,Global Talkers,2
+C00360,2,Social Scrollers,3
+C00361,0,Night Gamers & Streamers,0
+C00362,3,Global Talkers,2
+C00363,2,Social Scrollers,3
+C00364,2,Social Scrollers,3
+C00365,1,Light Top-uppers,1
+C00366,1,Light Top-uppers,1
+C00367,2,Social Scrollers,3
+C00368,0,Night Gamers & Streamers,0
+C00369,1,Light Top-uppers,1
+C00370,0,Night Gamers & Streamers,0
+C00371,2,Social Scrollers,3
+C00372,2,Social Scrollers,3
+C00373,2,Social Scrollers,3
+C00374,3,Global Talkers,2
+C00375,1,Light Top-uppers,1
+C00376,3,Global Talkers,2
+C00377,2,Social Scrollers,3
+C00378,1,Light Top-uppers,1
+C00379,3,Global Talkers,2
+C00380,2,Social Scrollers,3
+C00381,2,Social Scrollers,3
+C00382,2,Social Scrollers,3
+C00383,1,Light Top-uppers,1
+C00384,3,Global Talkers,2
+C00385,1,Light Top-uppers,1
+C00386,1,Light Top-uppers,1
+C00387,1,Light Top-uppers,1
+C00388,1,Light Top-uppers,1
+C00389,1,Light Top-uppers,1
+C00390,1,Light Top-uppers,1
+C00391,2,Social Scrollers,3
+C00392,0,Night Gamers & Streamers,0
+C00393,1,Light Top-uppers,1
+C00394,0,Night Gamers & Streamers,0
+C00395,2,Social Scrollers,3
+C00396,1,Light Top-uppers,1
+C00397,1,Light Top-uppers,1
+C00398,2,Social Scrollers,3
+C00399,0,Night Gamers & Streamers,0
+C00400,3,Global Talkers,2
+C00401,1,Light Top-uppers,1
+C00402,1,Light Top-uppers,1
+C00403,1,Light Top-uppers,1
+C00404,0,Night Gamers & Streamers,0
+C00405,3,Global Talkers,2
+C00406,3,Global Talkers,2
+C00407,2,Social Scrollers,3
+C00408,1,Light Top-uppers,1
+C00409,2,Social Scrollers,3
+C00410,0,Night Gamers & Streamers,0
+C00411,0,Night Gamers & Streamers,0
+C00412,2,Social Scrollers,3
+C00413,3,Global Talkers,2
+C00414,1,Light Top-uppers,1
+C00415,2,Social Scrollers,3
+C00416,3,Global Talkers,2
+C00417,1,Light Top-uppers,1
+C00418,3,Global Talkers,2
+C00419,1,Light Top-uppers,1
+C00420,3,Global Talkers,2
+C00421,1,Light Top-uppers,1
+C00422,3,Global Talkers,2
+C00423,0,Night Gamers & Streamers,0
+C00424,2,Social Scrollers,3
+C00425,2,Social Scrollers,3
+C00426,1,Light Top-uppers,1
+C00427,2,Social Scrollers,3
+C00428,2,Social Scrollers,3
+C00429,0,Night Gamers & Streamers,0
+C00430,2,Social Scrollers,3
+C00431,2,Social Scrollers,3
+C00432,1,Light Top-uppers,1
+C00433,1,Light Top-uppers,1
+C00434,3,Global Talkers,2
+C00435,0,Night Gamers & Streamers,0
+C00436,1,Light Top-uppers,1
+C00437,0,Night Gamers & Streamers,0
+C00438,0,Night Gamers & Streamers,0
+C00439,0,Night Gamers & Streamers,0
+C00440,0,Night Gamers & Streamers,0
+C00441,0,Night Gamers & Streamers,0
+C00442,0,Night Gamers & Streamers,0
+C00443,2,Social Scrollers,3
+C00444,1,Light Top-uppers,1
+C00445,1,Light Top-uppers,1
+C00446,1,Light Top-uppers,1
+C00447,1,Light Top-uppers,1
+C00448,3,Global Talkers,2
+C00449,3,Global Talkers,2
+C00450,1,Light Top-uppers,1
+C00451,2,Social Scrollers,3
+C00452,3,Global Talkers,2
+C00453,0,Night Gamers & Streamers,0
+C00454,0,Night Gamers & Streamers,0
+C00455,3,Global Talkers,2
+C00456,1,Light Top-uppers,1
+C00457,1,Light Top-uppers,1
+C00458,0,Night Gamers & Streamers,0
+C00459,2,Social Scrollers,3
+C00460,1,Light Top-uppers,1
+C00461,3,Global Talkers,2
+C00462,0,Night Gamers & Streamers,0
+C00463,2,Social Scrollers,3
+C00464,1,Light Top-uppers,1
+C00465,1,Light Top-uppers,1
+C00466,1,Light Top-uppers,1
+C00467,0,Night Gamers & Streamers,0
+C00468,2,Social Scrollers,3
+C00469,2,Social Scrollers,3
+C00470,0,Night Gamers & Streamers,0
+C00471,2,Social Scrollers,3
+C00472,2,Social Scrollers,3
+C00473,2,Social Scrollers,3
+C00474,2,Social Scrollers,3
+C00475,2,Social Scrollers,3
+C00476,1,Light Top-uppers,1
+C00477,3,Global Talkers,2
+C00478,2,Social Scrollers,3
+C00479,0,Night Gamers & Streamers,0
+C00480,0,Night Gamers & Streamers,0
+C00481,1,Light Top-uppers,1
+C00482,2,Social Scrollers,3
+C00483,2,Social Scrollers,3
+C00484,0,Night Gamers & Streamers,0
+C00485,1,Light Top-uppers,1
+C00486,2,Social Scrollers,3
+C00487,0,Night Gamers & Streamers,0
+C00488,3,Global Talkers,2
+C00489,1,Light Top-uppers,1
+C00490,1,Light Top-uppers,1
+C00491,2,Social Scrollers,3
+C00492,3,Global Talkers,2
+C00493,2,Social Scrollers,3
+C00494,2,Social Scrollers,3
+C00495,0,Night Gamers & Streamers,0
+C00496,2,Social Scrollers,3
+C00497,2,Social Scrollers,3
+C00498,0,Night Gamers & Streamers,0
+C00499,3,Global Talkers,2
+C00500,2,Social Scrollers,3
+C00501,2,Social Scrollers,3
+C00502,2,Social Scrollers,3
+C00503,3,Global Talkers,2
+C00504,3,Global Talkers,2
+C00505,3,Global Talkers,2
+C00506,0,Night Gamers & Streamers,0
+C00507,3,Global Talkers,2
+C00508,2,Social Scrollers,3
+C00509,0,Night Gamers & Streamers,0
+C00510,0,Night Gamers & Streamers,0
+C00511,3,Global Talkers,2
+C00512,3,Global Talkers,2
+C00513,1,Light Top-uppers,1
+C00514,1,Light Top-uppers,1
+C00515,2,Social Scrollers,3
+C00516,2,Social Scrollers,3
+C00517,2,Social Scrollers,3
+C00518,1,Light Top-uppers,1
+C00519,3,Global Talkers,2
+C00520,2,Social Scrollers,3
+C00521,3,Global Talkers,2
+C00522,2,Social Scrollers,3
+C00523,3,Global Talkers,2
+C00524,1,Light Top-uppers,1
+C00525,3,Global Talkers,2
+C00526,1,Light Top-uppers,1
+C00527,2,Social Scrollers,3
+C00528,1,Light Top-uppers,1
+C00529,4,Night-Heavy Outliers,-1
+C00530,3,Global Talkers,2
+C00531,2,Social Scrollers,3
+C00532,3,Global Talkers,2
+C00533,0,Night Gamers & Streamers,0
+C00534,3,Global Talkers,2
+C00535,2,Social Scrollers,3
+C00536,3,Global Talkers,2
+C00537,0,Night Gamers & Streamers,0
+C00538,2,Social Scrollers,3
+C00539,3,Global Talkers,2
+C00540,2,Social Scrollers,3
+C00541,0,Night Gamers & Streamers,0
+C00542,0,Night Gamers & Streamers,0
+C00543,2,Social Scrollers,3
+C00544,2,Social Scrollers,3
+C00545,2,Social Scrollers,3
+C00546,1,Light Top-uppers,1
+C00547,0,Night Gamers & Streamers,0
+C00548,3,Global Talkers,2
+C00549,0,Night Gamers & Streamers,0
+C00550,0,Night Gamers & Streamers,0
+C00551,3,Global Talkers,2
+C00552,1,Light Top-uppers,1
+C00553,2,Social Scrollers,3
+C00554,2,Social Scrollers,3
+C00555,3,Global Talkers,2
+C00556,3,Global Talkers,2
+C00557,3,Global Talkers,2
+C00558,1,Light Top-uppers,1
+C00559,0,Night Gamers & Streamers,0
+C00560,3,Global Talkers,2
+C00561,1,Light Top-uppers,1
+C00562,2,Social Scrollers,3
+C00563,1,Light Top-uppers,1
+C00564,3,Global Talkers,2
+C00565,0,Night Gamers & Streamers,0
+C00566,2,Social Scrollers,3
+C00567,1,Light Top-uppers,1
+C00568,2,Social Scrollers,3
+C00569,2,Social Scrollers,3
+C00570,1,Light Top-uppers,1
+C00571,2,Social Scrollers,3
+C00572,0,Night Gamers & Streamers,0
+C00573,0,Night Gamers & Streamers,0
+C00574,1,Light Top-uppers,1
+C00575,2,Social Scrollers,3
+C00576,1,Light Top-uppers,1
+C00577,1,Light Top-uppers,1
+C00578,0,Night Gamers & Streamers,0
+C00579,3,Global Talkers,2
+C00580,2,Social Scrollers,3
+C00581,3,Global Talkers,2
+C00582,2,Social Scrollers,3
+C00583,0,Night Gamers & Streamers,0
+C00584,0,Night Gamers & Streamers,0
+C00585,0,Night Gamers & Streamers,0
+C00586,0,Night Gamers & Streamers,0
+C00587,3,Global Talkers,2
+C00588,2,Social Scrollers,3
+C00589,2,Social Scrollers,3
+C00590,3,Global Talkers,2
+C00591,3,Global Talkers,2
+C00592,1,Light Top-uppers,1
+C00593,2,Social Scrollers,3
+C00594,3,Global Talkers,2
+C00595,2,Social Scrollers,3
+C00596,3,Global Talkers,2
+C00597,1,Light Top-uppers,1
+C00598,2,Social Scrollers,3
+C00599,2,Social Scrollers,3
+C00600,0,Night Gamers & Streamers,0
+C00601,2,Social Scrollers,3
+C00602,2,Social Scrollers,3
+C00603,1,Light Top-uppers,1
+C00604,1,Light Top-uppers,1
+C00605,2,Social Scrollers,3
+C00606,0,Night Gamers & Streamers,0
+C00607,0,Night Gamers & Streamers,0
+C00608,2,Social Scrollers,3
+C00609,1,Light Top-uppers,1
+C00610,3,Global Talkers,2
+C00611,0,Night Gamers & Streamers,0
+C00612,1,Light Top-uppers,1
+C00613,4,Night-Heavy Outliers,-1
+C00614,2,Social Scrollers,3
+C00615,3,Global Talkers,2
+C00616,0,Night Gamers & Streamers,0
+C00617,1,Light Top-uppers,1
+C00618,0,Night Gamers & Streamers,0
+C00619,1,Light Top-uppers,1
+C00620,2,Social Scrollers,3
+C00621,3,Global Talkers,2
+C00622,2,Social Scrollers,3
+C00623,2,Social Scrollers,3
+C00624,3,Global Talkers,2
+C00625,2,Social Scrollers,3
+C00626,2,Social Scrollers,3
+C00627,1,Light Top-uppers,1
+C00628,2,Social Scrollers,3
+C00629,0,Night Gamers & Streamers,0
+C00630,2,Social Scrollers,3
+C00631,1,Light Top-uppers,1
+C00632,0,Night Gamers & Streamers,0
+C00633,2,Social Scrollers,3
+C00634,0,Night Gamers & Streamers,0
+C00635,2,Social Scrollers,3
+C00636,2,Social Scrollers,3
+C00637,2,Social Scrollers,3
+C00638,0,Night Gamers & Streamers,0
+C00639,2,Social Scrollers,3
+C00640,2,Social Scrollers,3
+C00641,2,Social Scrollers,3
+C00642,3,Global Talkers,2
+C00643,3,Global Talkers,2
+C00644,1,Light Top-uppers,1
+C00645,0,Night Gamers & Streamers,0
+C00646,3,Global Talkers,2
+C00647,0,Night Gamers & Streamers,0
+C00648,3,Global Talkers,2
+C00649,1,Light Top-uppers,1
+C00650,1,Light Top-uppers,1
+C00651,3,Global Talkers,2
+C00652,0,Night Gamers & Streamers,0
+C00653,0,Night Gamers & Streamers,0
+C00654,2,Social Scrollers,3
+C00655,2,Social Scrollers,3
+C00656,3,Global Talkers,2
+C00657,0,Night Gamers & Streamers,0
+C00658,0,Night Gamers & Streamers,0
+C00659,3,Global Talkers,2
+C00660,3,Global Talkers,2
+C00661,2,Social Scrollers,3
+C00662,3,Global Talkers,2
+C00663,2,Social Scrollers,3
+C00664,1,Light Top-uppers,1
+C00665,1,Light Top-uppers,1
+C00666,3,Global Talkers,2
+C00667,1,Light Top-uppers,1
+C00668,0,Night Gamers & Streamers,0
+C00669,0,Night Gamers & Streamers,0
+C00670,1,Light Top-uppers,1
+C00671,4,Night-Heavy Outliers,-1
+C00672,2,Social Scrollers,3
+C00673,2,Social Scrollers,3
+C00674,0,Night Gamers & Streamers,0
+C00675,4,Night-Heavy Outliers,-1
+C00676,0,Night Gamers & Streamers,0
+C00677,0,Night Gamers & Streamers,0
+C00678,3,Global Talkers,2
+C00679,3,Global Talkers,2
+C00680,4,Night-Heavy Outliers,-1
+C00681,2,Social Scrollers,3
+C00682,1,Light Top-uppers,1
+C00683,2,Social Scrollers,3
+C00684,2,Social Scrollers,3
+C00685,3,Global Talkers,2
+C00686,2,Social Scrollers,3
+C00687,3,Global Talkers,2
+C00688,2,Social Scrollers,3
+C00689,1,Light Top-uppers,1
+C00690,2,Social Scrollers,3
+C00691,0,Night Gamers & Streamers,0
+C00692,3,Global Talkers,2
+C00693,1,Light Top-uppers,1
+C00694,2,Social Scrollers,3
+C00695,2,Social Scrollers,3
+C00696,3,Global Talkers,2
+C00697,3,Global Talkers,2
+C00698,3,Global Talkers,2
+C00699,2,Social Scrollers,3
+C00700,2,Social Scrollers,3
+C00701,1,Light Top-uppers,1
+C00702,0,Night Gamers & Streamers,0
+C00703,2,Social Scrollers,3
+C00704,3,Global Talkers,2
+C00705,2,Social Scrollers,3
+C00706,2,Social Scrollers,3
+C00707,0,Night Gamers & Streamers,0
+C00708,2,Social Scrollers,3
+C00709,1,Light Top-uppers,1
+C00710,1,Light Top-uppers,1
+C00711,1,Light Top-uppers,1
+C00712,2,Social Scrollers,3
+C00713,1,Light Top-uppers,1
+C00714,1,Light Top-uppers,1
+C00715,0,Night Gamers & Streamers,0
+C00716,2,Social Scrollers,3
+C00717,1,Light Top-uppers,1
+C00718,1,Light Top-uppers,1
+C00719,1,Light Top-uppers,1
+C00720,4,Night-Heavy Outliers,-1
+C00721,2,Social Scrollers,3
+C00722,3,Global Talkers,2
+C00723,0,Night Gamers & Streamers,0
+C00724,2,Social Scrollers,3
+C00725,0,Night Gamers & Streamers,0
+C00726,4,Night-Heavy Outliers,-1
+C00727,2,Social Scrollers,3
+C00728,3,Global Talkers,2
+C00729,0,Night Gamers & Streamers,0
+C00730,1,Light Top-uppers,1
+C00731,0,Night Gamers & Streamers,0
+C00732,4,Night-Heavy Outliers,-1
+C00733,1,Light Top-uppers,1
+C00734,1,Light Top-uppers,1
+C00735,2,Social Scrollers,3
+C00736,0,Night Gamers & Streamers,0
+C00737,0,Night Gamers & Streamers,0
+C00738,3,Global Talkers,2
+C00739,0,Night Gamers & Streamers,0
+C00740,0,Night Gamers & Streamers,0
+C00741,2,Social Scrollers,3
+C00742,0,Night Gamers & Streamers,0
+C00743,1,Light Top-uppers,1
+C00744,2,Social Scrollers,3
+C00745,1,Light Top-uppers,1
+C00746,2,Social Scrollers,3
+C00747,1,Light Top-uppers,1
+C00748,1,Light Top-uppers,1
+C00749,3,Global Talkers,2
+C00750,0,Night Gamers & Streamers,0
+C00751,0,Night Gamers & Streamers,0
+C00752,1,Light Top-uppers,1
+C00753,2,Social Scrollers,3
+C00754,0,Night Gamers & Streamers,0
+C00755,2,Social Scrollers,3
+C00756,1,Light Top-uppers,1
+C00757,1,Light Top-uppers,1
+C00758,0,Night Gamers & Streamers,0
+C00759,2,Social Scrollers,3
+C00760,1,Light Top-uppers,1
+C00761,3,Global Talkers,2
+C00762,3,Global Talkers,2
+C00763,1,Light Top-uppers,1
+C00764,1,Light Top-uppers,1
+C00765,3,Global Talkers,2
+C00766,2,Social Scrollers,3
+C00767,1,Light Top-uppers,1
+C00768,1,Light Top-uppers,1
+C00769,0,Night Gamers & Streamers,0
+C00770,2,Social Scrollers,3
+C00771,3,Global Talkers,2
+C00772,1,Light Top-uppers,1
+C00773,2,Social Scrollers,3
+C00774,0,Night Gamers & Streamers,0
+C00775,0,Night Gamers & Streamers,0
+C00776,1,Light Top-uppers,1
+C00777,2,Social Scrollers,3
+C00778,0,Night Gamers & Streamers,0
+C00779,2,Social Scrollers,3
+C00780,0,Night Gamers & Streamers,0
+C00781,0,Night Gamers & Streamers,0
+C00782,2,Social Scrollers,3
+C00783,3,Global Talkers,2
+C00784,3,Global Talkers,2
+C00785,0,Night Gamers & Streamers,0
+C00786,3,Global Talkers,2
+C00787,1,Light Top-uppers,1
+C00788,0,Night Gamers & Streamers,0
+C00789,0,Night Gamers & Streamers,0
+C00790,3,Global Talkers,2
+C00791,3,Global Talkers,2
+C00792,2,Social Scrollers,3
+C00793,3,Global Talkers,2
+C00794,1,Light Top-uppers,1
+C00795,0,Night Gamers & Streamers,0
+C00796,2,Social Scrollers,3
+C00797,0,Night Gamers & Streamers,0
+C00798,2,Social Scrollers,3
+C00799,1,Light Top-uppers,1
+C00800,3,Global Talkers,2
+C00801,1,Light Top-uppers,1
+C00802,2,Social Scrollers,3
+C00803,2,Social Scrollers,3
+C00804,0,Night Gamers & Streamers,0
+C00805,1,Light Top-uppers,1
+C00806,3,Global Talkers,2
+C00807,1,Light Top-uppers,1
+C00808,3,Global Talkers,2
+C00809,4,Night-Heavy Outliers,-1
+C00810,3,Global Talkers,2
+C00811,1,Light Top-uppers,1
+C00812,0,Night Gamers & Streamers,0
+C00813,2,Social Scrollers,3
+C00814,3,Global Talkers,2
+C00815,3,Global Talkers,2
+C00816,0,Night Gamers & Streamers,0
+C00817,0,Night Gamers & Streamers,0
+C00818,0,Night Gamers & Streamers,0
+C00819,2,Social Scrollers,3
+C00820,4,Night-Heavy Outliers,-1
+C00821,2,Social Scrollers,3
+C00822,2,Social Scrollers,3
+C00823,0,Night Gamers & Streamers,0
+C00824,1,Light Top-uppers,1
+C00825,1,Light Top-uppers,1
+C00826,3,Global Talkers,2
+C00827,2,Social Scrollers,3
+C00828,1,Light Top-uppers,1
+C00829,2,Social Scrollers,3
+C00830,2,Social Scrollers,3
+C00831,0,Night Gamers & Streamers,0
+C00832,0,Night Gamers & Streamers,0
+C00833,2,Social Scrollers,3
+C00834,2,Social Scrollers,3
+C00835,0,Night Gamers & Streamers,0
+C00836,2,Social Scrollers,3
+C00837,3,Global Talkers,2
+C00838,3,Global Talkers,2
+C00839,1,Light Top-uppers,1
+C00840,1,Light Top-uppers,1
+C00841,0,Night Gamers & Streamers,0
+C00842,1,Light Top-uppers,1
+C00843,0,Night Gamers & Streamers,0
+C00844,3,Global Talkers,2
+C00845,3,Global Talkers,2
+C00846,2,Social Scrollers,3
+C00847,1,Light Top-uppers,1
+C00848,1,Light Top-uppers,1
+C00849,0,Night Gamers & Streamers,0
+C00850,3,Global Talkers,2
+C00851,2,Social Scrollers,3
+C00852,2,Social Scrollers,3
+C00853,0,Night Gamers & Streamers,0
+C00854,1,Light Top-uppers,1
+C00855,2,Social Scrollers,3
+C00856,1,Light Top-uppers,1
+C00857,4,Night-Heavy Outliers,-1
+C00858,1,Light Top-uppers,1
+C00859,3,Global Talkers,2
+C00860,1,Light Top-uppers,1
+C00861,0,Night Gamers & Streamers,0
+C00862,3,Global Talkers,2
+C00863,3,Global Talkers,2
+C00864,2,Social Scrollers,3
+C00865,3,Global Talkers,2
+C00866,1,Light Top-uppers,1
+C00867,0,Night Gamers & Streamers,0
+C00868,1,Light Top-uppers,1
+C00869,2,Social Scrollers,3
+C00870,3,Global Talkers,2
+C00871,1,Light Top-uppers,1
+C00872,1,Light Top-uppers,1
+C00873,3,Global Talkers,2
+C00874,1,Light Top-uppers,1
+C00875,3,Global Talkers,2
+C00876,0,Night Gamers & Streamers,0
+C00877,3,Global Talkers,2
+C00878,0,Night Gamers & Streamers,0
+C00879,3,Global Talkers,2
+C00880,0,Night Gamers & Streamers,0
+C00881,2,Social Scrollers,3
+C00882,2,Social Scrollers,3
+C00883,0,Night Gamers & Streamers,0
+C00884,3,Global Talkers,2
+C00885,2,Social Scrollers,3
+C00886,1,Light Top-uppers,1
+C00887,0,Night Gamers & Streamers,0
+C00888,2,Social Scrollers,3
+C00889,2,Social Scrollers,3
+C00890,3,Global Talkers,2
+C00891,0,Night Gamers & Streamers,0
+C00892,1,Light Top-uppers,1
+C00893,0,Night Gamers & Streamers,0
+C00894,2,Social Scrollers,3
+C00895,3,Global Talkers,2
+C00896,0,Night Gamers & Streamers,0
+C00897,3,Global Talkers,2
+C00898,0,Night Gamers & Streamers,0
+C00899,1,Light Top-uppers,1
+C00900,2,Social Scrollers,3
+C00901,3,Global Talkers,2
+C00902,2,Social Scrollers,3
+C00903,1,Light Top-uppers,1
+C00904,2,Social Scrollers,3
+C00905,2,Social Scrollers,3
+C00906,2,Social Scrollers,3
+C00907,0,Night Gamers & Streamers,0
+C00908,2,Social Scrollers,3
+C00909,2,Social Scrollers,3
+C00910,0,Night Gamers & Streamers,0
+C00911,3,Global Talkers,2
+C00912,2,Social Scrollers,3
+C00913,0,Night Gamers & Streamers,0
+C00914,3,Global Talkers,2
+C00915,2,Social Scrollers,3
+C00916,1,Light Top-uppers,1
+C00917,2,Social Scrollers,3
+C00918,0,Night Gamers & Streamers,0
+C00919,3,Global Talkers,2
+C00920,2,Social Scrollers,3
+C00921,1,Light Top-uppers,1
+C00922,2,Social Scrollers,3
+C00923,0,Night Gamers & Streamers,0
+C00924,2,Social Scrollers,3
+C00925,0,Night Gamers & Streamers,0
+C00926,2,Social Scrollers,3
+C00927,3,Global Talkers,2
+C00928,3,Global Talkers,2
+C00929,2,Social Scrollers,3
+C00930,0,Night Gamers & Streamers,0
+C00931,2,Social Scrollers,3
+C00932,2,Social Scrollers,3
+C00933,2,Social Scrollers,3
+C00934,1,Light Top-uppers,1
+C00935,0,Night Gamers & Streamers,0
+C00936,2,Social Scrollers,3
+C00937,0,Night Gamers & Streamers,0
+C00938,1,Light Top-uppers,1
+C00939,3,Global Talkers,2
+C00940,0,Night Gamers & Streamers,0
+C00941,3,Global Talkers,2
+C00942,1,Light Top-uppers,1
+C00943,0,Night Gamers & Streamers,0
+C00944,2,Social Scrollers,3
+C00945,2,Social Scrollers,3
+C00946,0,Night Gamers & Streamers,0
+C00947,0,Night Gamers & Streamers,0
+C00948,0,Night Gamers & Streamers,0
+C00949,2,Social Scrollers,3
+C00950,1,Light Top-uppers,1
+C00951,1,Light Top-uppers,1
+C00952,0,Night Gamers & Streamers,0
+C00953,4,Night-Heavy Outliers,-1
+C00954,2,Social Scrollers,3
+C00955,0,Night Gamers & Streamers,0
+C00956,3,Global Talkers,2
+C00957,2,Social Scrollers,3
+C00958,2,Social Scrollers,3
+C00959,4,Night-Heavy Outliers,-1
+C00960,2,Social Scrollers,3
+C00961,2,Social Scrollers,3
+C00962,2,Social Scrollers,3
+C00963,0,Night Gamers & Streamers,0
+C00964,2,Social Scrollers,3
+C00965,1,Light Top-uppers,1
+C00966,2,Social Scrollers,3
+C00967,2,Social Scrollers,3
+C00968,3,Global Talkers,2
+C00969,2,Social Scrollers,3
+C00970,1,Light Top-uppers,1
+C00971,0,Night Gamers & Streamers,0
+C00972,0,Night Gamers & Streamers,0
+C00973,0,Night Gamers & Streamers,0
+C00974,1,Light Top-uppers,1
+C00975,0,Night Gamers & Streamers,0
+C00976,1,Light Top-uppers,1
+C00977,0,Night Gamers & Streamers,0
+C00978,2,Social Scrollers,3
+C00979,2,Social Scrollers,3
+C00980,1,Light Top-uppers,1
+C00981,0,Night Gamers & Streamers,0
+C00982,3,Global Talkers,2
+C00983,1,Light Top-uppers,1
+C00984,1,Light Top-uppers,1
+C00985,1,Light Top-uppers,1
+C00986,1,Light Top-uppers,1
+C00987,4,Night-Heavy Outliers,-1
+C00988,0,Night Gamers & Streamers,0
+C00989,2,Social Scrollers,3
+C00990,0,Night Gamers & Streamers,0
+C00991,1,Light Top-uppers,1
+C00992,4,Night-Heavy Outliers,-1
+C00993,2,Social Scrollers,3
+C00994,1,Light Top-uppers,1
+C00995,2,Social Scrollers,3
+C00996,2,Social Scrollers,3
+C00997,2,Social Scrollers,3
+C00998,1,Light Top-uppers,1
+C00999,2,Social Scrollers,3
+C01000,2,Social Scrollers,3
+C01001,0,Night Gamers & Streamers,0
+C01002,2,Social Scrollers,3
+C01003,3,Global Talkers,2
+C01004,0,Night Gamers & Streamers,0
+C01005,3,Global Talkers,2
+C01006,2,Social Scrollers,3
+C01007,0,Night Gamers & Streamers,0
+C01008,0,Night Gamers & Streamers,0
+C01009,0,Night Gamers & Streamers,0
+C01010,2,Social Scrollers,3
+C01011,1,Light Top-uppers,1
+C01012,2,Social Scrollers,3
+C01013,3,Global Talkers,2
+C01014,1,Light Top-uppers,1
+C01015,3,Global Talkers,2
+C01016,1,Light Top-uppers,1
+C01017,2,Social Scrollers,3
+C01018,2,Social Scrollers,3
+C01019,2,Social Scrollers,3
+C01020,0,Night Gamers & Streamers,0
+C01021,2,Social Scrollers,3
+C01022,3,Global Talkers,2
+C01023,4,Night-Heavy Outliers,-1
+C01024,3,Global Talkers,2
+C01025,2,Social Scrollers,3
+C01026,2,Social Scrollers,3
+C01027,2,Social Scrollers,3
+C01028,1,Light Top-uppers,1
+C01029,1,Light Top-uppers,1
+C01030,2,Social Scrollers,3
+C01031,2,Social Scrollers,3
+C01032,2,Social Scrollers,3
+C01033,3,Global Talkers,2
+C01034,0,Night Gamers & Streamers,0
+C01035,2,Social Scrollers,3
+C01036,0,Night Gamers & Streamers,0
+C01037,0,Night Gamers & Streamers,0
+C01038,0,Night Gamers & Streamers,0
+C01039,0,Night Gamers & Streamers,0
+C01040,0,Night Gamers & Streamers,0
+C01041,2,Social Scrollers,3
+C01042,0,Night Gamers & Streamers,0
+C01043,1,Light Top-uppers,1
+C01044,0,Night Gamers & Streamers,0
+C01045,1,Light Top-uppers,1
+C01046,3,Global Talkers,2
+C01047,1,Light Top-uppers,1
+C01048,0,Night Gamers & Streamers,0
+C01049,1,Light Top-uppers,1
+C01050,0,Night Gamers & Streamers,0
+C01051,0,Night Gamers & Streamers,0
+C01052,0,Night Gamers & Streamers,0
+C01053,2,Social Scrollers,3
+C01054,0,Night Gamers & Streamers,0
+C01055,1,Light Top-uppers,1
+C01056,3,Global Talkers,2
+C01057,1,Light Top-uppers,1
+C01058,3,Global Talkers,2
+C01059,0,Night Gamers & Streamers,0
+C01060,2,Social Scrollers,3
+C01061,0,Night Gamers & Streamers,0
+C01062,1,Light Top-uppers,1
+C01063,3,Global Talkers,2
+C01064,2,Social Scrollers,3
+C01065,3,Global Talkers,2
+C01066,1,Light Top-uppers,1
+C01067,1,Light Top-uppers,1
+C01068,3,Global Talkers,2
+C01069,3,Global Talkers,2
+C01070,2,Social Scrollers,3
+C01071,0,Night Gamers & Streamers,0
+C01072,2,Social Scrollers,3
+C01073,3,Global Talkers,2
+C01074,1,Light Top-uppers,1
+C01075,3,Global Talkers,2
+C01076,1,Light Top-uppers,1
+C01077,3,Global Talkers,2
+C01078,3,Global Talkers,2
+C01079,0,Night Gamers & Streamers,0
+C01080,3,Global Talkers,2
+C01081,0,Night Gamers & Streamers,0
+C01082,2,Social Scrollers,3
+C01083,3,Global Talkers,2
+C01084,3,Global Talkers,2
+C01085,1,Light Top-uppers,1
+C01086,2,Social Scrollers,3
+C01087,2,Social Scrollers,3
+C01088,2,Social Scrollers,3
+C01089,2,Social Scrollers,3
+C01090,0,Night Gamers & Streamers,0
+C01091,0,Night Gamers & Streamers,0
+C01092,1,Light Top-uppers,1
+C01093,0,Night Gamers & Streamers,0
+C01094,1,Light Top-uppers,1
+C01095,2,Social Scrollers,3
+C01096,3,Global Talkers,2
+C01097,3,Global Talkers,2
+C01098,2,Social Scrollers,3
+C01099,2,Social Scrollers,3
+C01100,3,Global Talkers,2
+C01101,0,Night Gamers & Streamers,0
+C01102,0,Night Gamers & Streamers,0
+C01103,3,Global Talkers,2
+C01104,2,Social Scrollers,3
+C01105,1,Light Top-uppers,1
+C01106,2,Social Scrollers,3
+C01107,2,Social Scrollers,3
+C01108,3,Global Talkers,2
+C01109,3,Global Talkers,2
+C01110,2,Social Scrollers,3
+C01111,0,Night Gamers & Streamers,0
+C01112,0,Night Gamers & Streamers,0
+C01113,0,Night Gamers & Streamers,0
+C01114,2,Social Scrollers,3
+C01115,0,Night Gamers & Streamers,0
+C01116,0,Night Gamers & Streamers,0
+C01117,3,Global Talkers,2
+C01118,2,Social Scrollers,3
+C01119,2,Social Scrollers,3
+C01120,1,Light Top-uppers,1
+C01121,2,Social Scrollers,3
+C01122,0,Night Gamers & Streamers,0
+C01123,0,Night Gamers & Streamers,0
+C01124,0,Night Gamers & Streamers,0
+C01125,0,Night Gamers & Streamers,0
+C01126,1,Light Top-uppers,1
+C01127,0,Night Gamers & Streamers,0
+C01128,2,Social Scrollers,3
+C01129,0,Night Gamers & Streamers,0
+C01130,0,Night Gamers & Streamers,0
+C01131,2,Social Scrollers,3
+C01132,1,Light Top-uppers,1
+C01133,0,Night Gamers & Streamers,0
+C01134,3,Global Talkers,2
+C01135,0,Night Gamers & Streamers,0
+C01136,3,Global Talkers,2
+C01137,1,Light Top-uppers,1
+C01138,0,Night Gamers & Streamers,0
+C01139,2,Social Scrollers,3
+C01140,2,Social Scrollers,3
+C01141,0,Night Gamers & Streamers,0
+C01142,0,Night Gamers & Streamers,0
+C01143,0,Night Gamers & Streamers,0
+C01144,2,Social Scrollers,3
+C01145,0,Night Gamers & Streamers,0
+C01146,2,Social Scrollers,3
+C01147,0,Night Gamers & Streamers,0
+C01148,3,Global Talkers,2
+C01149,0,Night Gamers & Streamers,0
+C01150,0,Night Gamers & Streamers,0
+C01151,0,Night Gamers & Streamers,0
+C01152,3,Global Talkers,2
+C01153,0,Night Gamers & Streamers,0
+C01154,1,Light Top-uppers,1
+C01155,3,Global Talkers,2
+C01156,2,Social Scrollers,3
+C01157,0,Night Gamers & Streamers,0
+C01158,1,Light Top-uppers,1
+C01159,0,Night Gamers & Streamers,0
+C01160,3,Global Talkers,2
+C01161,3,Global Talkers,2
+C01162,2,Social Scrollers,3
+C01163,3,Global Talkers,2
+C01164,2,Social Scrollers,3
+C01165,3,Global Talkers,2
+C01166,1,Light Top-uppers,1
+C01167,1,Light Top-uppers,1
+C01168,0,Night Gamers & Streamers,0
+C01169,1,Light Top-uppers,1
+C01170,3,Global Talkers,2
+C01171,2,Social Scrollers,3
+C01172,2,Social Scrollers,3
+C01173,2,Social Scrollers,3
+C01174,1,Light Top-uppers,1
+C01175,3,Global Talkers,2
+C01176,1,Light Top-uppers,1
+C01177,1,Light Top-uppers,1
+C01178,1,Light Top-uppers,1
+C01179,1,Light Top-uppers,1
+C01180,0,Night Gamers & Streamers,0
+C01181,2,Social Scrollers,3
+C01182,2,Social Scrollers,3
+C01183,3,Global Talkers,2
+C01184,3,Global Talkers,2
+C01185,1,Light Top-uppers,1
+C01186,3,Global Talkers,2
+C01187,3,Global Talkers,2
+C01188,1,Light Top-uppers,1
+C01189,1,Light Top-uppers,1
+C01190,0,Night Gamers & Streamers,0
+C01191,2,Social Scrollers,3
+C01192,1,Light Top-uppers,1
+C01193,3,Global Talkers,2
+C01194,0,Night Gamers & Streamers,0
+C01195,0,Night Gamers & Streamers,0
+C01196,3,Global Talkers,2
+C01197,1,Light Top-uppers,1
+C01198,1,Light Top-uppers,1
+C01199,2,Social Scrollers,3
+C01200,1,Light Top-uppers,1
+C01201,1,Light Top-uppers,1
+C01202,3,Global Talkers,2
+C01203,3,Global Talkers,2
+C01204,0,Night Gamers & Streamers,0
+C01205,0,Night Gamers & Streamers,0
+C01206,0,Night Gamers & Streamers,0
+C01207,0,Night Gamers & Streamers,0
+C01208,0,Night Gamers & Streamers,0
+C01209,3,Global Talkers,2
+C01210,0,Night Gamers & Streamers,0
+C01211,1,Light Top-uppers,1
+C01212,1,Light Top-uppers,1
+C01213,2,Social Scrollers,3
+C01214,1,Light Top-uppers,1
+C01215,4,Night-Heavy Outliers,-1
+C01216,1,Light Top-uppers,1
+C01217,3,Global Talkers,2
+C01218,0,Night Gamers & Streamers,0
+C01219,3,Global Talkers,2
+C01220,3,Global Talkers,2
+C01221,1,Light Top-uppers,1
+C01222,1,Light Top-uppers,1
+C01223,3,Global Talkers,2
+C01224,3,Global Talkers,2
+C01225,4,Night-Heavy Outliers,-1
+C01226,1,Light Top-uppers,1
+C01227,3,Global Talkers,2
+C01228,0,Night Gamers & Streamers,0
+C01229,1,Light Top-uppers,1
+C01230,1,Light Top-uppers,1
+C01231,2,Social Scrollers,3
+C01232,1,Light Top-uppers,1
+C01233,4,Night-Heavy Outliers,-1
+C01234,3,Global Talkers,2
+C01235,1,Light Top-uppers,1
+C01236,2,Social Scrollers,3
+C01237,3,Global Talkers,2
+C01238,1,Light Top-uppers,1
+C01239,1,Light Top-uppers,1
+C01240,3,Global Talkers,2
+C01241,2,Social Scrollers,3
+C01242,1,Light Top-uppers,1
+C01243,0,Night Gamers & Streamers,0
+C01244,3,Global Talkers,2
+C01245,3,Global Talkers,2
+C01246,1,Light Top-uppers,1
+C01247,2,Social Scrollers,3
+C01248,1,Light Top-uppers,1
+C01249,3,Global Talkers,2
+C01250,3,Global Talkers,2
+C01251,3,Global Talkers,2
+C01252,0,Night Gamers & Streamers,0
+C01253,3,Global Talkers,2
+C01254,0,Night Gamers & Streamers,0
+C01255,1,Light Top-uppers,1
+C01256,0,Night Gamers & Streamers,0
+C01257,1,Light Top-uppers,1
+C01258,0,Night Gamers & Streamers,0
+C01259,2,Social Scrollers,3
+C01260,3,Global Talkers,2
+C01261,2,Social Scrollers,3
+C01262,3,Global Talkers,2
+C01263,3,Global Talkers,2
+C01264,2,Social Scrollers,3
+C01265,1,Light Top-uppers,1
+C01266,2,Social Scrollers,3
+C01267,3,Global Talkers,2
+C01268,3,Global Talkers,2
+C01269,3,Global Talkers,2
+C01270,0,Night Gamers & Streamers,0
+C01271,1,Light Top-uppers,1
+C01272,2,Social Scrollers,3
+C01273,0,Night Gamers & Streamers,0
+C01274,0,Night Gamers & Streamers,0
+C01275,0,Night Gamers & Streamers,0
+C01276,1,Light Top-uppers,1
+C01277,3,Global Talkers,2
+C01278,0,Night Gamers & Streamers,0
+C01279,1,Light Top-uppers,1
+C01280,3,Global Talkers,2
+C01281,2,Social Scrollers,3
+C01282,1,Light Top-uppers,1
+C01283,1,Light Top-uppers,1
+C01284,2,Social Scrollers,3
+C01285,3,Global Talkers,2
+C01286,0,Night Gamers & Streamers,0
+C01287,2,Social Scrollers,3
+C01288,2,Social Scrollers,3
+C01289,0,Night Gamers & Streamers,0
+C01290,2,Social Scrollers,3
+C01291,2,Social Scrollers,3
+C01292,0,Night Gamers & Streamers,0
+C01293,1,Light Top-uppers,1
+C01294,0,Night Gamers & Streamers,0
+C01295,1,Light Top-uppers,1
+C01296,1,Light Top-uppers,1
+C01297,0,Night Gamers & Streamers,0
+C01298,2,Social Scrollers,3
+C01299,3,Global Talkers,2
+C01300,0,Night Gamers & Streamers,0
+C01301,3,Global Talkers,2
+C01302,2,Social Scrollers,3
+C01303,0,Night Gamers & Streamers,0
+C01304,3,Global Talkers,2
+C01305,0,Night Gamers & Streamers,0
+C01306,2,Social Scrollers,3
+C01307,2,Social Scrollers,3
+C01308,2,Social Scrollers,3
+C01309,1,Light Top-uppers,1
+C01310,3,Global Talkers,2
+C01311,1,Light Top-uppers,1
+C01312,1,Light Top-uppers,1
+C01313,1,Light Top-uppers,1
+C01314,2,Social Scrollers,3
+C01315,3,Global Talkers,2
+C01316,1,Light Top-uppers,1
+C01317,1,Light Top-uppers,1
+C01318,1,Light Top-uppers,1
+C01319,2,Social Scrollers,3
+C01320,2,Social Scrollers,3
+C01321,0,Night Gamers & Streamers,0
+C01322,0,Night Gamers & Streamers,0
+C01323,2,Social Scrollers,3
+C01324,2,Social Scrollers,3
+C01325,0,Night Gamers & Streamers,0
+C01326,0,Night Gamers & Streamers,0
+C01327,1,Light Top-uppers,1
+C01328,1,Light Top-uppers,1
+C01329,2,Social Scrollers,3
+C01330,1,Light Top-uppers,1
+C01331,1,Light Top-uppers,1
+C01332,0,Night Gamers & Streamers,0
+C01333,1,Light Top-uppers,1
+C01334,4,Night-Heavy Outliers,-1
+C01335,0,Night Gamers & Streamers,0
+C01336,2,Social Scrollers,3
+C01337,3,Global Talkers,2
+C01338,2,Social Scrollers,3
+C01339,0,Night Gamers & Streamers,0
+C01340,3,Global Talkers,2
+C01341,1,Light Top-uppers,1
+C01342,1,Light Top-uppers,1
+C01343,2,Social Scrollers,3
+C01344,1,Light Top-uppers,1
+C01345,2,Social Scrollers,3
+C01346,1,Light Top-uppers,1
+C01347,0,Night Gamers & Streamers,0
+C01348,1,Light Top-uppers,1
+C01349,2,Social Scrollers,3
+C01350,2,Social Scrollers,3
+C01351,1,Light Top-uppers,1
+C01352,3,Global Talkers,2
+C01353,3,Global Talkers,2
+C01354,3,Global Talkers,2
+C01355,2,Social Scrollers,3
+C01356,0,Night Gamers & Streamers,0
+C01357,2,Social Scrollers,3
+C01358,3,Global Talkers,2
+C01359,0,Night Gamers & Streamers,0
+C01360,0,Night Gamers & Streamers,0
+C01361,0,Night Gamers & Streamers,0
+C01362,2,Social Scrollers,3
+C01363,0,Night Gamers & Streamers,0
+C01364,0,Night Gamers & Streamers,0
+C01365,2,Social Scrollers,3
+C01366,1,Light Top-uppers,1
+C01367,0,Night Gamers & Streamers,0
+C01368,0,Night Gamers & Streamers,0
+C01369,2,Social Scrollers,3
+C01370,2,Social Scrollers,3
+C01371,1,Light Top-uppers,1
+C01372,1,Light Top-uppers,1
+C01373,2,Social Scrollers,3
+C01374,0,Night Gamers & Streamers,0
+C01375,0,Night Gamers & Streamers,0
+C01376,1,Light Top-uppers,1
+C01377,2,Social Scrollers,3
+C01378,0,Night Gamers & Streamers,0
+C01379,3,Global Talkers,2
+C01380,3,Global Talkers,2
+C01381,2,Social Scrollers,3
+C01382,0,Night Gamers & Streamers,-1
+C01383,3,Global Talkers,2
+C01384,3,Global Talkers,2
+C01385,2,Social Scrollers,3
+C01386,1,Light Top-uppers,1
+C01387,2,Social Scrollers,3
+C01388,2,Social Scrollers,3
+C01389,3,Global Talkers,2
+C01390,3,Global Talkers,2
+C01391,1,Light Top-uppers,1
+C01392,0,Night Gamers & Streamers,0
+C01393,1,Light Top-uppers,1
+C01394,0,Night Gamers & Streamers,0
+C01395,0,Night Gamers & Streamers,0
+C01396,1,Light Top-uppers,1
+C01397,2,Social Scrollers,3
+C01398,1,Light Top-uppers,1
+C01399,4,Night-Heavy Outliers,-1
+C01400,3,Global Talkers,2
+C01401,0,Night Gamers & Streamers,0
+C01402,2,Social Scrollers,3
+C01403,1,Light Top-uppers,1
+C01404,0,Night Gamers & Streamers,0
+C01405,2,Social Scrollers,3
+C01406,0,Night Gamers & Streamers,0
+C01407,0,Night Gamers & Streamers,0
+C01408,2,Social Scrollers,3
+C01409,2,Social Scrollers,3
+C01410,1,Light Top-uppers,1
+C01411,2,Social Scrollers,3
+C01412,3,Global Talkers,2
+C01413,3,Global Talkers,2
+C01414,1,Light Top-uppers,1
+C01415,0,Night Gamers & Streamers,0
+C01416,1,Light Top-uppers,1
+C01417,0,Night Gamers & Streamers,0
+C01418,1,Light Top-uppers,1
+C01419,1,Light Top-uppers,1
+C01420,1,Light Top-uppers,1
+C01421,2,Social Scrollers,3
+C01422,0,Night Gamers & Streamers,0
+C01423,1,Light Top-uppers,1
+C01424,3,Global Talkers,2
+C01425,2,Social Scrollers,3
+C01426,2,Social Scrollers,3
+C01427,0,Night Gamers & Streamers,0
+C01428,3,Global Talkers,2
+C01429,2,Social Scrollers,3
+C01430,1,Light Top-uppers,1
+C01431,3,Global Talkers,2
+C01432,1,Light Top-uppers,1
+C01433,0,Night Gamers & Streamers,0
+C01434,3,Global Talkers,2
+C01435,1,Light Top-uppers,1
+C01436,3,Global Talkers,2
+C01437,3,Global Talkers,2
+C01438,0,Night Gamers & Streamers,0
+C01439,2,Social Scrollers,3
+C01440,3,Global Talkers,2
+C01441,2,Social Scrollers,3
+C01442,1,Light Top-uppers,1
+C01443,1,Light Top-uppers,1
+C01444,2,Social Scrollers,3
+C01445,3,Global Talkers,2
+C01446,3,Global Talkers,2
+C01447,3,Global Talkers,2
+C01448,3,Global Talkers,2
+C01449,2,Social Scrollers,3
+C01450,0,Night Gamers & Streamers,0
+C01451,1,Light Top-uppers,1
+C01452,0,Night Gamers & Streamers,0
+C01453,0,Night Gamers & Streamers,0
+C01454,1,Light Top-uppers,1
+C01455,2,Social Scrollers,3
+C01456,1,Light Top-uppers,1
+C01457,2,Social Scrollers,3
+C01458,2,Social Scrollers,3
+C01459,3,Global Talkers,2
+C01460,2,Social Scrollers,3
+C01461,4,Night-Heavy Outliers,-1
+C01462,3,Global Talkers,2
+C01463,2,Social Scrollers,3
+C01464,1,Light Top-uppers,1
+C01465,2,Social Scrollers,3
+C01466,2,Social Scrollers,3
+C01467,0,Night Gamers & Streamers,0
+C01468,2,Social Scrollers,3
+C01469,3,Global Talkers,2
+C01470,1,Light Top-uppers,1
+C01471,3,Global Talkers,2
+C01472,3,Global Talkers,2
+C01473,0,Night Gamers & Streamers,0
+C01474,3,Global Talkers,2
+C01475,2,Social Scrollers,3
+C01476,3,Global Talkers,2
+C01477,2,Social Scrollers,3
+C01478,2,Social Scrollers,3
+C01479,2,Social Scrollers,3
+C01480,2,Social Scrollers,3
+C01481,3,Global Talkers,2
+C01482,0,Night Gamers & Streamers,0
+C01483,0,Night Gamers & Streamers,0
+C01484,0,Night Gamers & Streamers,0
+C01485,2,Social Scrollers,3
+C01486,0,Night Gamers & Streamers,0
+C01487,2,Social Scrollers,3
+C01488,3,Global Talkers,2
+C01489,2,Social Scrollers,3
+C01490,3,Global Talkers,2
+C01491,3,Global Talkers,2
+C01492,0,Night Gamers & Streamers,0
+C01493,0,Night Gamers & Streamers,0
+C01494,2,Social Scrollers,3
+C01495,0,Night Gamers & Streamers,0
+C01496,2,Social Scrollers,3
+C01497,1,Light Top-uppers,1
+C01498,0,Night Gamers & Streamers,-1
+C01499,2,Social Scrollers,3
+C01500,1,Light Top-uppers,1
+C01501,3,Global Talkers,2
+C01502,1,Light Top-uppers,1
+C01503,0,Night Gamers & Streamers,0
+C01504,1,Light Top-uppers,1
+C01505,1,Light Top-uppers,1
+C01506,1,Light Top-uppers,1
+C01507,0,Night Gamers & Streamers,0
+C01508,2,Social Scrollers,3
+C01509,2,Social Scrollers,3
+C01510,4,Night-Heavy Outliers,-1
+C01511,0,Night Gamers & Streamers,0
+C01512,2,Social Scrollers,3
+C01513,0,Night Gamers & Streamers,0
+C01514,2,Social Scrollers,3
+C01515,1,Light Top-uppers,1
+C01516,2,Social Scrollers,3
+C01517,1,Light Top-uppers,1
+C01518,0,Night Gamers & Streamers,0
+C01519,3,Global Talkers,2
+C01520,0,Night Gamers & Streamers,0
+C01521,0,Night Gamers & Streamers,0
+C01522,1,Light Top-uppers,1
+C01523,0,Night Gamers & Streamers,0
+C01524,2,Social Scrollers,3
+C01525,1,Light Top-uppers,1
+C01526,0,Night Gamers & Streamers,0
+C01527,1,Light Top-uppers,1
+C01528,0,Night Gamers & Streamers,0
+C01529,0,Night Gamers & Streamers,0
+C01530,3,Global Talkers,2
+C01531,0,Night Gamers & Streamers,0
+C01532,3,Global Talkers,2
+C01533,1,Light Top-uppers,1
+C01534,2,Social Scrollers,3
+C01535,3,Global Talkers,2
+C01536,2,Social Scrollers,3
+C01537,3,Global Talkers,2
+C01538,2,Social Scrollers,3
+C01539,2,Social Scrollers,3
+C01540,0,Night Gamers & Streamers,0
+C01541,3,Global Talkers,2
+C01542,2,Social Scrollers,3
+C01543,2,Social Scrollers,3
+C01544,2,Social Scrollers,3
+C01545,2,Social Scrollers,3
+C01546,0,Night Gamers & Streamers,0
+C01547,0,Night Gamers & Streamers,0
+C01548,0,Night Gamers & Streamers,0
+C01549,0,Night Gamers & Streamers,0
+C01550,0,Night Gamers & Streamers,0
+C01551,3,Global Talkers,2
+C01552,0,Night Gamers & Streamers,0
+C01553,4,Night-Heavy Outliers,-1
+C01554,3,Global Talkers,2
+C01555,3,Global Talkers,2
+C01556,0,Night Gamers & Streamers,0
+C01557,1,Light Top-uppers,1
+C01558,0,Night Gamers & Streamers,0
+C01559,2,Social Scrollers,3
+C01560,1,Light Top-uppers,1
+C01561,4,Night-Heavy Outliers,-1
+C01562,1,Light Top-uppers,1
+C01563,3,Global Talkers,2
+C01564,2,Social Scrollers,3
+C01565,0,Night Gamers & Streamers,0
+C01566,1,Light Top-uppers,1
+C01567,1,Light Top-uppers,1
+C01568,3,Global Talkers,2
+C01569,2,Social Scrollers,3
+C01570,3,Global Talkers,2
+C01571,0,Night Gamers & Streamers,0
+C01572,2,Social Scrollers,3
+C01573,1,Light Top-uppers,1
+C01574,0,Night Gamers & Streamers,0
+C01575,3,Global Talkers,2
+C01576,0,Night Gamers & Streamers,0
+C01577,3,Global Talkers,2
+C01578,2,Social Scrollers,3
+C01579,2,Social Scrollers,3
+C01580,2,Social Scrollers,3
+C01581,1,Light Top-uppers,1
+C01582,1,Light Top-uppers,1
+C01583,2,Social Scrollers,3
+C01584,3,Global Talkers,2
+C01585,2,Social Scrollers,3
+C01586,2,Social Scrollers,3
+C01587,3,Global Talkers,2
+C01588,0,Night Gamers & Streamers,0
+C01589,2,Social Scrollers,3
+C01590,0,Night Gamers & Streamers,0
+C01591,3,Global Talkers,2
+C01592,1,Light Top-uppers,1
+C01593,1,Light Top-uppers,1
+C01594,1,Light Top-uppers,1
+C01595,1,Light Top-uppers,1
+C01596,2,Social Scrollers,3
+C01597,1,Light Top-uppers,1
+C01598,0,Night Gamers & Streamers,0
+C01599,2,Social Scrollers,3
+C01600,1,Light Top-uppers,1
+C01601,3,Global Talkers,2
+C01602,3,Global Talkers,2
+C01603,3,Global Talkers,2
+C01604,1,Light Top-uppers,1
+C01605,0,Night Gamers & Streamers,0
+C01606,2,Social Scrollers,3
+C01607,1,Light Top-uppers,1
+C01608,1,Light Top-uppers,1
+C01609,3,Global Talkers,2
+C01610,2,Social Scrollers,3
+C01611,1,Light Top-uppers,1
+C01612,1,Light Top-uppers,1
+C01613,2,Social Scrollers,3
+C01614,3,Global Talkers,2
+C01615,1,Light Top-uppers,1
+C01616,2,Social Scrollers,3
+C01617,0,Night Gamers & Streamers,0
+C01618,1,Light Top-uppers,1
+C01619,3,Global Talkers,2
+C01620,1,Light Top-uppers,1
+C01621,3,Global Talkers,2
+C01622,2,Social Scrollers,3
+C01623,1,Light Top-uppers,1
+C01624,3,Global Talkers,2
+C01625,2,Social Scrollers,3
+C01626,3,Global Talkers,2
+C01627,1,Light Top-uppers,1
+C01628,3,Global Talkers,2
+C01629,0,Night Gamers & Streamers,0
+C01630,0,Night Gamers & Streamers,0
+C01631,2,Social Scrollers,3
+C01632,0,Night Gamers & Streamers,0
+C01633,1,Light Top-uppers,1
+C01634,1,Light Top-uppers,1
+C01635,1,Light Top-uppers,1
+C01636,2,Social Scrollers,3
+C01637,2,Social Scrollers,3
+C01638,1,Light Top-uppers,1
+C01639,2,Social Scrollers,3
+C01640,3,Global Talkers,2
+C01641,2,Social Scrollers,3
+C01642,1,Light Top-uppers,1
+C01643,3,Global Talkers,2
+C01644,1,Light Top-uppers,1
+C01645,1,Light Top-uppers,1
+C01646,0,Night Gamers & Streamers,0
+C01647,3,Global Talkers,2
+C01648,2,Social Scrollers,3
+C01649,3,Global Talkers,2
+C01650,2,Social Scrollers,3
+C01651,0,Night Gamers & Streamers,0
+C01652,3,Global Talkers,2
+C01653,2,Social Scrollers,3
+C01654,0,Night Gamers & Streamers,0
+C01655,3,Global Talkers,2
+C01656,0,Night Gamers & Streamers,0
+C01657,1,Light Top-uppers,1
+C01658,0,Night Gamers & Streamers,0
+C01659,2,Social Scrollers,3
+C01660,4,Night-Heavy Outliers,-1
+C01661,1,Light Top-uppers,1
+C01662,3,Global Talkers,2
+C01663,0,Night Gamers & Streamers,0
+C01664,2,Social Scrollers,3
+C01665,3,Global Talkers,2
+C01666,1,Light Top-uppers,1
+C01667,2,Social Scrollers,3
+C01668,1,Light Top-uppers,1
+C01669,3,Global Talkers,2
+C01670,3,Global Talkers,2
+C01671,0,Night Gamers & Streamers,0
+C01672,0,Night Gamers & Streamers,0
+C01673,2,Social Scrollers,3
+C01674,3,Global Talkers,2
+C01675,2,Social Scrollers,3
+C01676,2,Social Scrollers,3
+C01677,2,Social Scrollers,3
+C01678,1,Light Top-uppers,1
+C01679,0,Night Gamers & Streamers,0
+C01680,0,Night Gamers & Streamers,0
+C01681,0,Night Gamers & Streamers,0
+C01682,2,Social Scrollers,3
+C01683,3,Global Talkers,2
+C01684,3,Global Talkers,2
+C01685,3,Global Talkers,2
+C01686,3,Global Talkers,2
+C01687,0,Night Gamers & Streamers,0
+C01688,2,Social Scrollers,3
+C01689,3,Global Talkers,2
+C01690,2,Social Scrollers,3
+C01691,0,Night Gamers & Streamers,0
+C01692,0,Night Gamers & Streamers,0
+C01693,2,Social Scrollers,3
+C01694,0,Night Gamers & Streamers,0
+C01695,1,Light Top-uppers,1
+C01696,0,Night Gamers & Streamers,0
+C01697,1,Light Top-uppers,1
+C01698,0,Night Gamers & Streamers,0
+C01699,0,Night Gamers & Streamers,0
+C01700,2,Social Scrollers,3
+C01701,0,Night Gamers & Streamers,0
+C01702,1,Light Top-uppers,1
+C01703,3,Global Talkers,2
+C01704,1,Light Top-uppers,1
+C01705,0,Night Gamers & Streamers,0
+C01706,0,Night Gamers & Streamers,0
+C01707,1,Light Top-uppers,1
+C01708,0,Night Gamers & Streamers,0
+C01709,2,Social Scrollers,3
+C01710,3,Global Talkers,2
+C01711,0,Night Gamers & Streamers,0
+C01712,3,Global Talkers,2
+C01713,4,Night-Heavy Outliers,-1
+C01714,2,Social Scrollers,3
+C01715,0,Night Gamers & Streamers,0
+C01716,1,Light Top-uppers,1
+C01717,1,Light Top-uppers,1
+C01718,3,Global Talkers,2
+C01719,1,Light Top-uppers,1
+C01720,1,Light Top-uppers,1
+C01721,2,Social Scrollers,3
+C01722,0,Night Gamers & Streamers,0
+C01723,0,Night Gamers & Streamers,0
+C01724,0,Night Gamers & Streamers,0
+C01725,0,Night Gamers & Streamers,0
+C01726,0,Night Gamers & Streamers,0
+C01727,0,Night Gamers & Streamers,0
+C01728,0,Night Gamers & Streamers,0
+C01729,3,Global Talkers,2
+C01730,2,Social Scrollers,3
+C01731,1,Light Top-uppers,1
+C01732,3,Global Talkers,2
+C01733,1,Light Top-uppers,1
+C01734,0,Night Gamers & Streamers,0
+C01735,0,Night Gamers & Streamers,0
+C01736,1,Light Top-uppers,1
+C01737,3,Global Talkers,2
+C01738,2,Social Scrollers,3
+C01739,1,Light Top-uppers,1
+C01740,2,Social Scrollers,3
+C01741,1,Light Top-uppers,1
+C01742,2,Social Scrollers,3
+C01743,3,Global Talkers,2
+C01744,2,Social Scrollers,3
+C01745,0,Night Gamers & Streamers,0
+C01746,0,Night Gamers & Streamers,0
+C01747,2,Social Scrollers,3
+C01748,1,Light Top-uppers,1
+C01749,2,Social Scrollers,3
+C01750,1,Light Top-uppers,1
+C01751,1,Light Top-uppers,1
+C01752,2,Social Scrollers,3
+C01753,2,Social Scrollers,3
+C01754,1,Light Top-uppers,1
+C01755,4,Night-Heavy Outliers,-1
+C01756,1,Light Top-uppers,1
+C01757,3,Global Talkers,2
+C01758,2,Social Scrollers,3
+C01759,3,Global Talkers,2
+C01760,0,Night Gamers & Streamers,0
+C01761,2,Social Scrollers,3
+C01762,0,Night Gamers & Streamers,0
+C01763,3,Global Talkers,2
+C01764,1,Light Top-uppers,1
+C01765,0,Night Gamers & Streamers,0
+C01766,2,Social Scrollers,3
+C01767,2,Social Scrollers,3
+C01768,0,Night Gamers & Streamers,0
+C01769,0,Night Gamers & Streamers,0
+C01770,0,Night Gamers & Streamers,0
+C01771,0,Night Gamers & Streamers,0
+C01772,2,Social Scrollers,3
+C01773,2,Social Scrollers,3
+C01774,1,Light Top-uppers,1
+C01775,2,Social Scrollers,3
+C01776,0,Night Gamers & Streamers,0
+C01777,2,Social Scrollers,3
+C01778,2,Social Scrollers,3
+C01779,3,Global Talkers,2
+C01780,3,Global Talkers,2
+C01781,0,Night Gamers & Streamers,0
+C01782,2,Social Scrollers,3
+C01783,0,Night Gamers & Streamers,0
+C01784,1,Light Top-uppers,1
+C01785,2,Social Scrollers,3
+C01786,1,Light Top-uppers,1
+C01787,2,Social Scrollers,3
+C01788,2,Social Scrollers,3
+C01789,0,Night Gamers & Streamers,0
+C01790,0,Night Gamers & Streamers,0
+C01791,3,Global Talkers,2
+C01792,3,Global Talkers,2
+C01793,3,Global Talkers,2
+C01794,0,Night Gamers & Streamers,0
+C01795,0,Night Gamers & Streamers,0
+C01796,2,Social Scrollers,3
+C01797,1,Light Top-uppers,1
+C01798,2,Social Scrollers,3
+C01799,1,Light Top-uppers,1
+C01800,1,Light Top-uppers,1
+C01801,0,Night Gamers & Streamers,0
+C01802,1,Light Top-uppers,1
+C01803,3,Global Talkers,2
+C01804,0,Night Gamers & Streamers,0
+C01805,3,Global Talkers,2
+C01806,2,Social Scrollers,3
+C01807,0,Night Gamers & Streamers,0
+C01808,0,Night Gamers & Streamers,0
+C01809,3,Global Talkers,2
+C01810,2,Social Scrollers,3
+C01811,1,Light Top-uppers,1
+C01812,1,Light Top-uppers,1
+C01813,3,Global Talkers,2
+C01814,3,Global Talkers,2
+C01815,1,Light Top-uppers,1
+C01816,2,Social Scrollers,3
+C01817,1,Light Top-uppers,1
+C01818,2,Social Scrollers,3
+C01819,1,Light Top-uppers,1
+C01820,0,Night Gamers & Streamers,0
+C01821,3,Global Talkers,2
+C01822,1,Light Top-uppers,1
+C01823,3,Global Talkers,2
+C01824,2,Social Scrollers,3
+C01825,0,Night Gamers & Streamers,0
+C01826,3,Global Talkers,2
+C01827,0,Night Gamers & Streamers,0
+C01828,1,Light Top-uppers,1
+C01829,2,Social Scrollers,3
+C01830,2,Social Scrollers,3
+C01831,0,Night Gamers & Streamers,0
+C01832,0,Night Gamers & Streamers,0
+C01833,1,Light Top-uppers,1
+C01834,3,Global Talkers,2
+C01835,3,Global Talkers,2
+C01836,1,Light Top-uppers,1
+C01837,0,Night Gamers & Streamers,0
+C01838,0,Night Gamers & Streamers,0
+C01839,2,Social Scrollers,3
+C01840,2,Social Scrollers,3
+C01841,0,Night Gamers & Streamers,0
+C01842,2,Social Scrollers,3
+C01843,2,Social Scrollers,3
+C01844,0,Night Gamers & Streamers,0
+C01845,3,Global Talkers,2
+C01846,4,Night-Heavy Outliers,-1
+C01847,3,Global Talkers,2
+C01848,3,Global Talkers,2
+C01849,2,Social Scrollers,3
+C01850,3,Global Talkers,2
+C01851,3,Global Talkers,2
+C01852,0,Night Gamers & Streamers,0
+C01853,0,Night Gamers & Streamers,0
+C01854,0,Night Gamers & Streamers,0
+C01855,1,Light Top-uppers,1
+C01856,2,Social Scrollers,3
+C01857,2,Social Scrollers,3
+C01858,2,Social Scrollers,3
+C01859,2,Social Scrollers,3
+C01860,2,Social Scrollers,3
+C01861,2,Social Scrollers,3
+C01862,0,Night Gamers & Streamers,0
+C01863,0,Night Gamers & Streamers,0
+C01864,3,Global Talkers,2
+C01865,3,Global Talkers,2
+C01866,0,Night Gamers & Streamers,0
+C01867,0,Night Gamers & Streamers,0
+C01868,1,Light Top-uppers,1
+C01869,0,Night Gamers & Streamers,0
+C01870,3,Global Talkers,2
+C01871,2,Social Scrollers,3
+C01872,3,Global Talkers,2
+C01873,1,Light Top-uppers,1
+C01874,4,Night-Heavy Outliers,-1
+C01875,0,Night Gamers & Streamers,0
+C01876,0,Night Gamers & Streamers,0
+C01877,3,Global Talkers,2
+C01878,2,Social Scrollers,3
+C01879,2,Social Scrollers,3
+C01880,1,Light Top-uppers,1
+C01881,2,Social Scrollers,3
+C01882,2,Social Scrollers,3
+C01883,0,Night Gamers & Streamers,0
+C01884,1,Light Top-uppers,1
+C01885,2,Social Scrollers,3
+C01886,2,Social Scrollers,3
+C01887,2,Social Scrollers,3
+C01888,0,Night Gamers & Streamers,0
+C01889,3,Global Talkers,2
+C01890,0,Night Gamers & Streamers,0
+C01891,2,Social Scrollers,3
+C01892,0,Night Gamers & Streamers,0
+C01893,2,Social Scrollers,3
+C01894,2,Social Scrollers,3
+C01895,1,Light Top-uppers,1
+C01896,3,Global Talkers,2
+C01897,0,Night Gamers & Streamers,0
+C01898,3,Global Talkers,2
+C01899,2,Social Scrollers,3
+C01900,2,Social Scrollers,3
+C01901,0,Night Gamers & Streamers,0
+C01902,3,Global Talkers,2
+C01903,0,Night Gamers & Streamers,0
+C01904,0,Night Gamers & Streamers,0
+C01905,1,Light Top-uppers,1
+C01906,0,Night Gamers & Streamers,0
+C01907,1,Light Top-uppers,1
+C01908,2,Social Scrollers,3
+C01909,2,Social Scrollers,3
+C01910,2,Social Scrollers,3
+C01911,0,Night Gamers & Streamers,0
+C01912,1,Light Top-uppers,1
+C01913,0,Night Gamers & Streamers,0
+C01914,3,Global Talkers,2
+C01915,1,Light Top-uppers,1
+C01916,0,Night Gamers & Streamers,0
+C01917,1,Light Top-uppers,1
+C01918,2,Social Scrollers,3
+C01919,1,Light Top-uppers,1
+C01920,2,Social Scrollers,3
+C01921,2,Social Scrollers,3
+C01922,1,Light Top-uppers,1
+C01923,3,Global Talkers,2
+C01924,1,Light Top-uppers,1
+C01925,2,Social Scrollers,3
+C01926,2,Social Scrollers,3
+C01927,1,Light Top-uppers,1
+C01928,2,Social Scrollers,3
+C01929,3,Global Talkers,2
+C01930,1,Light Top-uppers,1
+C01931,3,Global Talkers,2
+C01932,3,Global Talkers,2
+C01933,0,Night Gamers & Streamers,0
+C01934,0,Night Gamers & Streamers,0
+C01935,4,Night-Heavy Outliers,-1
+C01936,1,Light Top-uppers,1
+C01937,2,Social Scrollers,3
+C01938,1,Light Top-uppers,1
+C01939,0,Night Gamers & Streamers,0
+C01940,0,Night Gamers & Streamers,0
+C01941,0,Night Gamers & Streamers,0
+C01942,0,Night Gamers & Streamers,0
+C01943,0,Night Gamers & Streamers,0
+C01944,0,Night Gamers & Streamers,0
+C01945,3,Global Talkers,2
+C01946,2,Social Scrollers,3
+C01947,2,Social Scrollers,3
+C01948,2,Social Scrollers,3
+C01949,2,Social Scrollers,3
+C01950,0,Night Gamers & Streamers,0
+C01951,3,Global Talkers,2
+C01952,0,Night Gamers & Streamers,0
+C01953,1,Light Top-uppers,1
+C01954,2,Social Scrollers,3
+C01955,0,Night Gamers & Streamers,0
+C01956,0,Night Gamers & Streamers,0
+C01957,0,Night Gamers & Streamers,0
+C01958,0,Night Gamers & Streamers,0
+C01959,1,Light Top-uppers,1
+C01960,0,Night Gamers & Streamers,0
+C01961,2,Social Scrollers,3
+C01962,2,Social Scrollers,3
+C01963,1,Light Top-uppers,1
+C01964,3,Global Talkers,2
+C01965,0,Night Gamers & Streamers,0
+C01966,0,Night Gamers & Streamers,0
+C01967,3,Global Talkers,2
+C01968,3,Global Talkers,2
+C01969,3,Global Talkers,2
+C01970,3,Global Talkers,2
+C01971,1,Light Top-uppers,1
+C01972,2,Social Scrollers,3
+C01973,2,Social Scrollers,3
+C01974,1,Light Top-uppers,1
+C01975,2,Social Scrollers,3
+C01976,1,Light Top-uppers,1
+C01977,3,Global Talkers,2
+C01978,3,Global Talkers,2
+C01979,1,Light Top-uppers,1
+C01980,1,Light Top-uppers,1
+C01981,0,Night Gamers & Streamers,0
+C01982,2,Social Scrollers,3
+C01983,2,Social Scrollers,3
+C01984,2,Social Scrollers,3
+C01985,2,Social Scrollers,3
+C01986,0,Night Gamers & Streamers,0
+C01987,2,Social Scrollers,3
+C01988,3,Global Talkers,2
+C01989,0,Night Gamers & Streamers,0
+C01990,0,Night Gamers & Streamers,0
+C01991,3,Global Talkers,2
+C01992,3,Global Talkers,2
+C01993,0,Night Gamers & Streamers,0
+C01994,0,Night Gamers & Streamers,0
+C01995,2,Social Scrollers,3
+C01996,1,Light Top-uppers,1
+C01997,0,Night Gamers & Streamers,0
+C01998,1,Light Top-uppers,1
+C01999,1,Light Top-uppers,1
+C02000,3,Global Talkers,2

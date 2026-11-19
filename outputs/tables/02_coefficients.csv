@@ -1,0 +1,13 @@
+,feature,effect per +1 SD (EGP),effect per +1 unit (EGP)
+0,plan_Premium,299.66,299.66
+1,plan_Standard,110.57,110.57
+2,data_usage_gb,89.63,3.44
+3,has_home_internet_Yes,25.78,25.78
+4,num_services,15.9,10.72
+5,voice_minutes,14.42,0.1
+6,governorate_Assiut,7.32,7.32
+7,governorate_Beni Suef,6.04,6.04
+8,governorate_Cairo,5.05,5.05
+9,governorate_Sharqia,5.0,5.0
+10,governorate_Minya,3.95,3.95
+11,payment_method_Credit card,-3.67,-3.67

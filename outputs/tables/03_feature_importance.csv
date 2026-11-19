@@ -1,0 +1,11 @@
+,Random Forest,XGBoost
+contract_type,14.2,30.7
+tenure_months,13.2,4.8
+monthly_bill_egp,12.0,5.4
+data_usage_gb,9.3,2.0
+plan,6.8,8.3
+governorate,6.2,18.0
+voice_minutes,5.7,1.5
+sms_count,5.3,1.6
+age,4.9,1.5
+late_payments,4.9,4.3

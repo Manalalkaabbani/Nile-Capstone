@@ -1,0 +1,4 @@
+,if customer has,then likely to buy,support,confidence,lift
+8,Intl_Calling,Roaming_Pack,0.078,0.922,8.958
+14,Device_Installment,Antivirus,0.093,0.837,5.967
+25,Cloud_Storage + Home_Internet,Streaming_Bundle,0.072,0.867,3.219
