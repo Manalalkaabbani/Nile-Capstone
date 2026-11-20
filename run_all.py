@@ -1,5 +1,5 @@
 """
-run_all.py  -  runs the 9 steps in order (about 2 minutes).  You can also run each step by hand.
+run_all.py  -  runs the 8 steps in order (about 2 minutes).  You can also run each step by hand.
 
     python run_all.py
 """
@@ -11,7 +11,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 STEPS = [
     "01_eda.py", "02_regression.py", "03_churn_models.py", "04_cv_and_tuning.py",
-    "05_final_test.py", "06_clustering_pca.py", "07_association_rules.py", "08_segments_vs_churn.py", "09_optimization.py",
+    "05_final_test.py", "06_clustering_pca.py", "07_association_rules.py", "08_segments_vs_churn.py",
 ]
 
 for step in STEPS:
