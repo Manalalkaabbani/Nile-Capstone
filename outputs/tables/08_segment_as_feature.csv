@@ -1,0 +1,4 @@
+,F1,F1 std,ROC-AUC,Recall,Precision
+A: original features,0.7485,0.0275,0.9339,0.8664,0.6603
+B: + segment,0.7403,0.0288,0.9334,0.8559,0.6538
+C: + 12 raw usage columns,0.7406,0.0329,0.9314,0.8538,0.6553

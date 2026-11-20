@@ -1,0 +1,6 @@
+segment,customers,share %,avg_daily_data_mb,night_usage_pct,streaming_hours_week,social_media_hours_week,gaming_hours_week,calls_per_day,avg_call_minutes,intl_calls_month,roaming_days_year,topups_per_month,app_count,video_call_hours_week
+Social Scrollers,565,28.2,1097.7,22.2,3.0,13.9,1.3,6.0,2.5,1.1,2.4,4.0,29.9,2.0
+Night Gamers & Streamers,525,26.2,2831.5,37.9,14.1,9.9,8.0,2.9,2.0,1.0,3.2,3.0,38.0,3.0
+Light Top-uppers,454,22.7,326.2,12.3,1.1,2.3,0.6,2.9,1.5,0.5,1.3,5.0,7.9,0.5
+Global Talkers,418,20.9,622.0,9.4,1.4,3.1,0.6,14.1,4.5,9.1,21.7,2.0,14.0,5.0
+Night-Heavy Outliers,38,1.9,7488.6,82.1,2.7,7.5,1.5,24.1,2.5,2.3,5.6,4.2,19.0,2.2

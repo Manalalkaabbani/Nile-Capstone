@@ -1,0 +1,12 @@
+{
+  "final_name": "Logistic Regression (tuned)",
+  "cv_f1_of_final": 0.7401529800684792,
+  "thresholds": {
+    "0.50 (default)": 0.5,
+    "0.30 (max money in CV if every offer works)": 0.3
+  },
+  "logistic_regression_best_params": {
+    "C": 3,
+    "class_weight": "balanced"
+  }
+}

@@ -1,0 +1,6 @@
+segment,customers,churned,churn_rate,CI low,CI high
+Night-Heavy Outliers,38,14,36.8,23.4,52.7
+Social Scrollers,565,150,26.5,23.1,30.3
+Night Gamers & Streamers,525,138,26.3,22.7,30.2
+Light Top-uppers,454,110,24.2,20.5,28.4
+Global Talkers,418,95,22.7,19.0,27.0

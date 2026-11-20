@@ -1,0 +1,7 @@
+,CV F1
+Logistic Regression (tuned),0.74
+Logistic Regression (default),0.717
+XGBoost (tuned),0.71
+XGBoost (default),0.686
+Random Forest (default),0.673
+Decision Tree (tuned),0.665
